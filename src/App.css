@@ -1,0 +1,55 @@
+body {
+  background-color: #2A4339;
+  margin: 0;
+}
+
+.header {
+  background-color: #FFC20E;
+  height: 15vh;
+  width: 75%;
+  display: flex;
+  margin: auto;
+}
+
+.mainContent {
+  height: 70vh;
+  width: 75%;
+  background-color: #FFFFFF;
+  margin: auto;
+}
+
+.footer {
+  background-color: #FFC20E;
+  height: 15vh;
+  width: 75%;
+  margin: auto;
+}
+
+.logoContainer {
+  width: 20vh;
+  height: 15vh;
+}
+
+.packersLogo {
+  width: 20vh;
+  height: 15vh;
+}
+
+.siteTitle {
+  color: #FFFFFF;
+  font-size: 10vh;
+  font-family: Verdana Header;
+  width: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+.getZip {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.submitButton {
+    width: 10vh;
+}
